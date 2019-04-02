@@ -1,2 +1,2 @@
 # COGS108_Repo
-repo for cogs108
+Bryant Liu's repo for cogs108
